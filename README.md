@@ -1,4 +1,3 @@
-
 # 🎧 DJ Farhad Official
 
 🎶 مجموعه رسمی میکس‌ها و پادکست‌های DJ Farhad  
@@ -8,7 +7,7 @@
 
 ## 🎵 Tehran Bin 1
 
-<img src="images/tehran-bin1.jpg" width="300">
+<img src="images/20251110_051128_e53ca21376ac7aa4b8de1981a6fa9312.jpg" width="300">
 
 <p>
   <a href="https://ahangify.com/songs/694296ce16ef42678e1e58c2">
